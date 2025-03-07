@@ -7,9 +7,8 @@ function User() {
       <Link to="/user/john">Jonathan</Link>
       <Link to="/user/ayush">Ayush</Link>
       <Link to="/user/zoya">Zoya</Link>
-      <Outlet />
-
-   
+      {/* <Outlet /> */}
+{/* props drilling next class context api and redux -> project  */}
     
     </div>
   );

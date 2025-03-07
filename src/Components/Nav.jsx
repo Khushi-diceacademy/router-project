@@ -39,6 +39,7 @@ function Nav() {
           User
         </NavLink>
         <Link to="/contact">Contact</Link>
+        <Link to="/products">Products</Link>
       </nav>
     </div>
   );
